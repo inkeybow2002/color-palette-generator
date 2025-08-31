@@ -10,9 +10,9 @@
     "eject": "react-scripts eject"
   },
   "dependencies": {
-    "react": "^18.2.0", // Updated to the latest version
-    "react-dom": "^18.2.0", // Updated to the latest version
-    "react-scripts": "5.0.2" // Updated to the latest version
+    "react": "^18.2.0", 
+    "react-dom": "^18.2.0", 
+    "react-scripts": "5.0.2" 
   },
   "eslintConfig": {
     "extends": [
