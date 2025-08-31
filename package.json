@@ -32,5 +32,9 @@
       "last 1 safari version"
     ]
   },
-  "author": "Your Name <author@example.com>"
+  "author": "Your Name <author@example.com>",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/username/color-palette-generator.git"
+  }
 }
